@@ -1,8 +1,11 @@
 # ecommercedesafio2
 CRIEI UM BANCO DE DADOS ECOMMERCE .
 ---------segue script de criação:-------------
+
 create database ecommerce;
+
 use ecommerce;
+
 create table clients(
 idclient int auto_increment primary key,
 Fname varchar(10),
